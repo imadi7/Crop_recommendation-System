@@ -1,1 +1,1 @@
-# Crop_Recommendation
+# Crop_Recommendation The Crop Recommendation System is a machine learning-based application designed to help farmers and agricultural professionals choose the most suitable crops for their land. It analyzes environmental factors like soil parameters, climate, and geographic location to provide accurate crop suggestions. By using techniques like decision trees, random forests, and gradient boosting, the system ensures reliable recommendations that can boost productivity and sustainability in agriculture.
